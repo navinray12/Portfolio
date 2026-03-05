@@ -109,6 +109,7 @@ className="bg-slate-900 p-6 rounded-lg hover:scale-105 transition"
 <a
 href={project.github}
 target="_blank"
+rel="noreferrer"
 className="text-blue-400 hover:underline"
 >
 
